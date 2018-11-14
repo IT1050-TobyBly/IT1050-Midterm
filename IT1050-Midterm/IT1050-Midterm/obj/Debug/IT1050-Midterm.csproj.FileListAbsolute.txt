@@ -1,0 +1,7 @@
+F:\IT1050-Midterm\IT1050-Midterm\bin\Debug\IT1050-Midterm.exe.config
+F:\IT1050-Midterm\IT1050-Midterm\bin\Debug\IT1050-Midterm.exe
+F:\IT1050-Midterm\IT1050-Midterm\bin\Debug\IT1050-Midterm.pdb
+F:\IT1050-Midterm\IT1050-Midterm\obj\Debug\IT1050-Midterm.csprojAssemblyReference.cache
+F:\IT1050-Midterm\IT1050-Midterm\obj\Debug\IT1050-Midterm.csproj.CoreCompileInputs.cache
+F:\IT1050-Midterm\IT1050-Midterm\obj\Debug\IT1050-Midterm.exe
+F:\IT1050-Midterm\IT1050-Midterm\obj\Debug\IT1050-Midterm.pdb
